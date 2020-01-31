@@ -56,7 +56,7 @@ public class Job {
                 "Name: " + aName + "\n" +
                 "Employer: " + aEmployer + "\n" +
                 "Location: " + aLocation + "\n" +
-                "Position: " + aPositionType + "\n" +
+                "Position Type: " + aPositionType + "\n" +
                 "Core Competency: " + aCoreCompetency +
                 "\n";
     }

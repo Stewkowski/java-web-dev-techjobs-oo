@@ -82,7 +82,7 @@ public class JobTest {
                 "Name: " + jobThree.getName() + "\n" +
                 "Employer: " + jobThree.getEmployer() + "\n" +
                 "Location: " + jobThree.getLocation() + "\n" +
-                "Position: " + jobThree.getPositionType() + "\n" +
+                "Position Type: " + jobThree.getPositionType() + "\n" +
                 "Core Competency: " + jobThree.getCoreCompetency() +
                  "\n", jobThree.toString());
     }
@@ -94,7 +94,7 @@ public class JobTest {
                 "Name: " + "Data not available" + "\n" +
                 "Employer: " + "Data not available" + "\n" +
                 "Location: " + "Data not available" + "\n" +
-                "Position: " + "Data not available" + "\n" +
+                "Position Type: " + "Data not available" + "\n" +
                 "Core Competency: " + "Data not available" +
                 "\n", jobSix.toString());
     }
